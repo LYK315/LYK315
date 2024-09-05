@@ -20,4 +20,11 @@ I’m a recent graduate with solid foundation in both front-end and back-end dev
 ## Connect With Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LYK315)  &nbsp;&nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yi-kai-liaw-04aa7221a/)  &nbsp;&nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-lyk.netlify.app/)  
 
+##
 
+<br>
+
+<p align="center"> 
+  Your Lucky Number<br>
+  <img src="https://profile-counter.glitch.me/LYK315/count.svg" />
+</p>
