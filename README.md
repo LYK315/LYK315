@@ -12,6 +12,10 @@ I’m a recent graduate with solid foundation in both front-end and back-end dev
 - 💻Python, C++, Java, Javascript, HTML, CSS
 - ⚛️React, Django
 - 📔Material UI, Tailwind CSS, Bootstrap
+- 💾PostgreSQL, MySQL, Firebase
+- 🎨Figma
+- 🤖UiPath, Playwright
+  
 
 <!-- Recent Statistics -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LYK315&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
