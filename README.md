@@ -10,9 +10,9 @@ I’m a recent graduate with solid foundation in both front-end and back-end dev
 <!-- Skills -->
 ## Skills
 - 💻Python, C++, Java, Javascript, Typescript, HTML, CSS
-- ⚛️React, Django, Express, Node, Vite
+- ⚛️React, Django, Express, Node, Vite, Flutter
 - 📔Material UI, Tailwind CSS, Bootstrap
-- 💾PostgreSQL, MySQL, Firebase
+- 💾PostgreSQL, MongoDB, MySQL, Firebase
 - 🎨Figma
 - 🤖UiPath, Playwright, Puppeteer
 
