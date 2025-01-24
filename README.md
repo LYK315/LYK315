@@ -5,7 +5,7 @@
 # Hi, Kai here☕
 
 <!-- Bio / Intro -->
-I’m a recent graduate with solid foundation in both front-end and back-end development, experienced in React and Django, and I’m always excited to take on new challenges!🔥🦾
+I’m always excited to take on new challenges!🔥🦾
 
 <!-- Skills -->
 ## Skills
